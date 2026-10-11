@@ -50,7 +50,7 @@ We value intuitive user experiences, maintainable software, and focused executio
 ## The Team
 
 - **Mehmet Sinan Eldemir** — Co-Founder
-- **Mert** — Co-Founder
+- **Mert Efe Özer** — Co-Founder
 
 ## Explore Our Work
 
